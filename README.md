@@ -37,5 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acoriy&show_icons=true&locale=en" alt="acoriy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acoriy&" alt="acoriy" /></p>
-### My Github Contributions  : 
-![Snake animation](https://github.com/Acoriy/Acoriy/blod/output/github-contribution-grid-snake.svg)
