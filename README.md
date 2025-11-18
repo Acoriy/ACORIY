@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **React , Laravel projects**
 
-- 👨‍💻 All of my projects are available at [https://sofyaneacoriy.netlify.app/](https://sofyaneacoriy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sofyaneacoriy.netlify.app/](https://sofyaneacoriy.vercel.app/)
 
 - 💬 Ask me about **react , vue , bootstrap , Tailwind css**
 
